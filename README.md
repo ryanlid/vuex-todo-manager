@@ -1,4 +1,8 @@
-# vuex_todo_manager
+# vuex todo manager
+
+## Project preview
+
+[Preview Online](https://vuex-todo-manager.lidong.me)
 
 ## Project setup
 ```
